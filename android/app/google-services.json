@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575683573553",
+    "project_id": "amhar-fashion-store",
+    "storage_bucket": "amhar-fashion-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575683573553:android:28c36f0b6511418a742210",
+        "android_client_info": {
+          "package_name": "com.example.amhar_fashion_store_flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2pQZDQTB_bmpD1v1UlMKmXxqti40jdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
